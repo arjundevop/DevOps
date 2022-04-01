@@ -18,6 +18,7 @@ Source: https://docs.sonarqube.org/latest/requirements/requirements/
    ```sh 
    cd /opt  
    wget https://binaries.sonarsource.com/Distribution/sonarqube/sonarqube-x.x.zip  
+   https://binaries.sonarsource.com/Distribution/sonarqube/sonarqube-8.0.zip
    ```
 1. extract packages
    ```sh 
